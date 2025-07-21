@@ -49,7 +49,7 @@ Para rodar este jogo, você precisará ter o **Python 3** instalado em seu siste
     
 3.  **Execute o Jogo:**
     ```bash
-    python main.py
+    python cara_coroa.py
     ```
 ### Menu Principal
 
