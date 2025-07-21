@@ -42,18 +42,15 @@ Para rodar este jogo, você precisará ter o **Python 3** instalado em seu siste
 ### Instalação e Execução
 
 1.  **Clone o Repositório (ou baixe os arquivos):**
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
+2.  ```bash
+      git clone https://github.com/Gabriel-Amorim-dev/Desafios.git # Clona o repositório principal
+      cd Desafios/Python/cara_Ou_Coroa # Navegue até a pasta do jogo
     ```
-    (Substitua `seu-usuario` e `seu-repositorio` pelos dados corretos do seu projeto)
-
-2.  **Execute o Jogo:**
+    
+3.  **Execute o Jogo:**
     ```bash
-    python nome_do_seu_arquivo.py
+    python main.py
     ```
-    (Substitua `nome_do_seu_arquivo.py` pelo nome do arquivo principal do seu jogo, que parece ser o que contém o loop `while True` principal.)
-
 ### Menu Principal
 
 Ao iniciar o jogo, você verá o seguinte menu:
