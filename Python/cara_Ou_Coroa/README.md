@@ -43,7 +43,7 @@ Para rodar este jogo, você precisará ter o **Python 3** instalado em seu siste
 
 1.  **Clone o Repositório (ou baixe os arquivos):**
 2.  ```bash
-      git clone https://github.com/Gabriel-Amorim-dev/Desafios.git # Clona o repositório principal
+      git clone https://github.com/Gabriel-Amorim-dev/Desafios.git # Clona o repositório principal 
       cd Desafios/Python/cara_Ou_Coroa # Navegue até a pasta do jogo
     ```
     
@@ -126,7 +126,7 @@ O código é modularizado em funções para cada modo de jogo e funcionalidades 
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você tiver ideias para novos modos de jogo, melhorias de código, correção de bugs, ou qualquer outra coisa, sinta-se à vontade para:
+Ainda estou aprendendo e me aprimorando como programador, então contribuições são sempre bem-vindas! Se você tiver ideias para novos modos de jogo, melhorias de código, correção de bugs, ou qualquer outra coisa, sinta-se à vontade para:
 
 1.  **Fork** este repositório.
 2.  Crie uma nova **branch** (`git checkout -b feature/nome-da-feature`).
